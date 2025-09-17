@@ -45,14 +45,23 @@ Model Storage: Pickle (.pickle)
 # 📂 Project Structure
 house-price-prediction-machine-learning/
 │
+
 ├── data/                  → CSV datasets (House_Data.csv, Jalgaon.csv)
+
 ├── notebooks/             → Jupyter notebook experiments (house-price-prediction-model.ipynb)
+
 ├── model/                 → Trained ML model (home_prices_model.pickle)
+
 ├── app/                   → Flask app files (app.py, columns.json)
+
 ├── requirements.txt       → Project dependencies
+
 ├── README.md              → Project documentation
+
 ├── Procfile               → Deployment config (Heroku)
+
 └── .gitignore             → Ignored files (venv, .DS_Store)
+
 
 # ⚙️ How to Run
 
@@ -107,4 +116,4 @@ Educational purpose for learning regression and Flask app deployment
 
 The House Price Prediction project demonstrates how Machine Learning and Python can provide actionable insights in the real estate domain. By automating price estimation, it reduces manual effort and improves decision-making for stakeholders.
 
-# 🏡 “Predicting house prices intelligently — making real estate decisions smarter and easier.”
+ 🏡 “Predicting house prices intelligently — making real estate decisions smarter and easier.”

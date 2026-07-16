@@ -1,0 +1,10 @@
+1. Activate Virtual Env RUN in terminal  
+.\Scripts\activate
+
+2. Install All Pip lib
+pip install ./requirements.txt
+
+3. run app.py
+
+4. Open Running Project on - 
+http://127.0.0.1:5000/
